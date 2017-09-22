@@ -15,5 +15,3 @@ hooks_manager.KeyDown =  OnKeyboardEvent
 hooks_manager.HookKeyboard()
 pythoncom.PumpMessages()
 
-#Subscribe - www.youtube.com/priyankgada
-#video tutorial / Testing on my youtube channel.
